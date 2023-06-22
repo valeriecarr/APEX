@@ -14,3 +14,16 @@ These materials are designed to be entirely self-paced and involve working throu
 Please note that we chose to incorporate only those aspects of Python that are most relevant to the APEX materials you'll be adopting in your stats and bio courses. As such, these training materials are not as comprehensive as you would find in an introductory Python course. There are numerous free, online Python courses available if you wish to dig deeper into the language.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+1. Colab basics
+2. Datatypes
+3. Variables
+4. Strings
+5. String operations
+6. Lists and tuples
+7. Dictionaries
+8. Pandas I
+9. Pandas II
+10. Using your own data
+11. Statistics
+12. Data visualization
