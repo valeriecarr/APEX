@@ -2,7 +2,7 @@
 <img width="723" alt="APEX_logo" src="https://user-images.githubusercontent.com/2983063/184194594-69eb02a0-13e8-4f1e-85c2-d2832a40a241.png">
 
 **APEX: Python Training for Faculty**  
-Created by: Valerie Carr and Jaime Zuspann, San Jose State University  
+Created by: Valerie Carr, Jaime Zuspann, and Michelle Baca Reinke, San Jose State University  
 https://sjsu.edu/apex/
 
 The aim of the Applied Programming Experiences (APEX) program is to provide lower-division students with programming experiences embedded into existing courses. Specifically, we are targeting introductory statistics and biology courses and are building curricular and co-curricular content for each discipline. APEX curricular materials will involve interactive exercises in the Python programming language.
