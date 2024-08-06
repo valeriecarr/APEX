@@ -25,3 +25,7 @@ Links to each module can be found below, as well as in the list of files above. 
 10. [Using your own data](https://colab.research.google.com/github/JaimeAdele/APEX/blob/main/Module10_your_own_data.ipynb)
 11. [Statistics](https://colab.research.google.com/github/JaimeAdele/APEX/blob/main/Module11_statistics.ipynb)
 12. [Data visualization](https://colab.research.google.com/github/JaimeAdele/APEX/blob/main/Module12_data_visualization.ipynb)
+
+Finally, you can find a simpler version of module 1 below, which is intended for student use:
+
+[Students: Welcome to Colab](https://github.com/valeriecarr/APEX/blob/main/welcome_to_colab_students.ipynb)
