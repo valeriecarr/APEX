@@ -28,5 +28,5 @@ Links to each module can be found below, as well as in the list of files above. 
 
 Finally, you can find simpler versions of module 1 below, which are intended for student use:
 
-[Students: Welcome to Colab](https://github.com/valeriecarr/APEX/blob/main/welcome_to_colab_students.ipynb): Appropriate for both bio and stats students
-[Students: Welcome to Colab for Statistics](https://github.com/valeriecarr/APEX/blob/main/welcome_to_colab_stats.ipynb): Specific to stats students
+* [Students: Welcome to Colab](https://github.com/valeriecarr/APEX/blob/main/welcome_to_colab_students.ipynb): Appropriate for both bio and stats students
+* [Students: Welcome to Colab for Statistics](https://github.com/valeriecarr/APEX/blob/main/welcome_to_colab_stats.ipynb): Specific to stats students
